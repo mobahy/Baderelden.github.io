@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Dr Mohamed Bahy Bader-El-Den"
 title_separator          : "-"
 name                     : &name "Mohamed Bader-El-Den"
-description              : &description "personal description"
+description              : &description "Reader (≃ Associate Professors) in Data Science and Machine Learning"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Baderelden.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
