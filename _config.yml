@@ -9,7 +9,7 @@
 locale                   : "en-UK"
 title                    : "Dr Mohamed Bahy Bader-El-Den"
 title_separator          : "-"
-name                     : &name "Mohamed Bader-El-Den"
+name                     : &name "Dr Mohamed Bader-El-Den"
 description              : &description "Reader (≃ Associate Professors) in Data Science and Machine Learning"
 url                      : https://baderelden.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr Mohamed Bader-El-Den"
   avatar           : "mbader.png"
-  bio              : "Reader (≃ Associate Professors) in Data Science and Machine Learning"
+  bio              : "Reader in Data Science and Machine Learning (≃ Associate Professors)"
   location         : "Portsmouth, United Kingdum"
   employer         : "University of Portsmouth"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
