@@ -85,7 +85,7 @@ author:
   bio              : "Reader in Data Science and Machine Learning (≃ Associate Professors)"
   location         : "Portsmouth, United Kingdum"
   employer         : "University of Portsmouth"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.uk/citations?user=xx4KZ7UAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
