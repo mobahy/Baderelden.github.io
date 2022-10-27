@@ -1,24 +1,24 @@
 # main links links
 main:
   - title: "Home"
-    url: /talks/   
+    url: https://baderelden.github.io//
   
   - title: "Reesearch"
-    url: /portfolio/
+    url: https://baderelden.github.io//
     
   - title: "Team"
-    url: /year-archive/
+    url: https://baderelden.github.io//
     
   - title: "Projects"
-    url: /markdown/
+    url: https://baderelden.github.io//
     
   - title: "Publications"
-    url: /publications/ 
+    url: https://baderelden.github.io//
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://baderelden.github.io//
     
   - title: "CV"
-    url: /cv/
+    url: https://baderelden.github.io//
     
 
