@@ -16,8 +16,8 @@ main:
     url: https://baderelden.github.io//
 
   - title: "Teaching"
-    url: https://baderelden.github.io//
-    
+  url: /teaching/ 
+  
   - title: "CV"
     url: https://baderelden.github.io//
     
