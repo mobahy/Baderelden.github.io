@@ -7,7 +7,7 @@ main:
     url: /portfolio/
     
   - title: "Team"
-    url: /Teeam/
+    url: /_pages/team.html
     
   - title: "Projects"
     url: https://baderelden.github.io//
