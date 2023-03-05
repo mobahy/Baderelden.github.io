@@ -11,5 +11,5 @@ td, th {
    border: none!important;
 }
 </style>
-Basma Elsaify  | Part-time Feb 2021
+<div style="width:50px">Basma Elsaify</div>   | Part-time Feb 2021
 Monira Mahmoud | Sept 21 - Sept 24</td>
